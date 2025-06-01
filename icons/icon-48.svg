@@ -1,0 +1,18 @@
+<svg viewBox="0 0 48 48" width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle representing thumbnail -->
+  <rect width="40" height="28" x="4" y="10" fill="#e5e5e5" stroke="#999" stroke-width="1.5" rx="3"/>
+  
+  <!-- Play button -->
+  <polygon points="17,16 17,26 27,21" fill="#ff0000"/>
+  
+  <!-- YouTube red accent bar -->
+  <rect width="6" height="3" x="36" y="3" fill="#ff0000" rx="1"/>
+  
+  <!-- Miniflux 'M' accent -->
+  <text x="5" y="8" font-family="Arial, sans-serif" font-size="6" fill="#666" font-weight="bold">M</text>
+  
+  <!-- Small decorative elements -->
+  <circle cx="8" cy="42" r="1.5" fill="#ccc"/>
+  <circle cx="12" cy="42" r="1.5" fill="#ccc"/>
+  <circle cx="16" cy="42" r="1.5" fill="#ccc"/>
+</svg> 
